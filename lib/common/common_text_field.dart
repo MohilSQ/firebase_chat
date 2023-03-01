@@ -15,6 +15,11 @@ class AppTextField extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return TextField(
+      ////
+
+      //
+
+      //
       controller: controller,
       decoration: InputDecoration(
         hintText: hintText,
